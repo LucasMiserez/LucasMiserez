@@ -17,7 +17,7 @@ I'm a 20-year-old programmer with a deep passion for web and software developmen
 - 🚆 **Train Enthusiast:** Trains are not just a mode of transport; they're a fascination. Railways, locomotives, and all things train-related intrigue me.
   
 
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's code, automate, and discuss trains together! 🚂
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's code and automate toghether!
 
 ---
 
