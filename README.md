@@ -23,4 +23,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 *This README is under constant development, just like my projects. Stay tuned for more updates!*
 
-![GitHub-Mark-Light](signature_white.png)![GitHub-Mark-Dark](signature_dark.png)
+![Signature-Light](signature_white.png#gh-dark-mode-only)![Signature-Dark](signature_dark.png#gh-light-mode-only)
