@@ -21,7 +21,7 @@ I'm a 20-year-old programmer with a deep passion for web and software developmen
 
 Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's code and automate toghether!
 
-[View My CV](https://cv-lucasmiserez.vercel.app/)
+<a href="https://cv-lucasmiserez.vercel.app/" target="_blank">View My CV</a>
 
 ---
 
