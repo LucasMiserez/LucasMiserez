@@ -30,3 +30,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![Signature-Light](signature_white.png#gh-dark-mode-only)![Signature-Dark](signature_dark.png#gh-light-mode-only)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmiserez&show_icons=true&locale=en&layout=compact" alt="lucasmiserez" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasmiserez&show_icons=true&locale=en" alt="lucasmiserez" /></p>
