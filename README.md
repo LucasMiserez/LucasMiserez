@@ -31,4 +31,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmiserez&show_icons=true&locale=en&layout=compact" alt="lucasmiserez" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasmiserez&show_icons=true&locale=en" alt="lucasmiserez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmiserez&show_icons=true&locale=en" alt="lucasmiserez" /></p>
