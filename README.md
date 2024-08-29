@@ -1,4 +1,4 @@
-![ProfileBanner](LucasBanner.png)
+![ProfileBanner](bannerlucasvo.png)
 
 # Hi, I'm Lucas 👋
 
