@@ -19,7 +19,7 @@ I'm a 21-year-old programmer with a deep passion for web and software developmen
 - 🚆 **Train Enthusiast:** Trains are not just a mode of transport; they're a fascination. Railways, locomotives and all things train-related intrigue me.
   
 
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's code and automate toghether!
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's code and automate together!
 
 <a href="https://cv-lucasmiserez.vercel.app/" target="_blank">View My CV</a>
 
