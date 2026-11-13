@@ -1,8 +1,8 @@
-![ProfileBanner](bannerlucasvo.png)
+![ProfileBanner](bannerlucasstudent.png)
 
 # Hi, I'm Lucas 👋
 
-I'm a 21-year-old programmer with a deep passion for web and software development. I also have a knack for automating processes, a strong affinity for Linux and a love for all things open-source.
+I'm a 23-year-old programmer with a deep passion for web and software development. I also have a knack for automating processes, a strong affinity for Linux and a love for all things open-source.
 
 ## About Me
 
